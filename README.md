@@ -24,7 +24,7 @@ It includes a *custom 3D-printed frame, **custom PCB design, and **firmware* to 
 
 ## 🖼 Drone Preview
 ### CAD Render
-![Drone CAD View](Images/Screenshot_2025-09-20_224331.png)
+![Drone CAD View](images/Screenshot 2025-09-20 224331.png)
 
 ### Real-life Frame
 ![Drone Frame](Images/bottom_pic.png)

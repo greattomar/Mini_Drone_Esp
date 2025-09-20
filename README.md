@@ -42,7 +42,7 @@ It includes a *custom 3D-printed frame, **custom PCB design, and **firmware* to 
 ![ View](images/drone.jpg)
 
 ### real pcb
-![pcb](images/cutompic.jpg)
+![pcb](images/cutom.jpg)
 
 ## 🔧 Usage
 1. Clone this repo:
